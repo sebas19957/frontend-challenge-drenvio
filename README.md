@@ -39,7 +39,7 @@ Tienda DR Envío es una aplicación web moderna desarrollada con Next.js que per
 1. Clona el repositorio:
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/sebas19957/frontend-challenge-drenvio
 ```
 
 2. Instala las dependencias:
